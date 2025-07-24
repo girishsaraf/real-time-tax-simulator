@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# FastAPI
+instance/
+
+# Database
+*.sqlite3
+db_data/
+database/postgres/
+
+# Docker
+*.log
+*.pid
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# pytest
+.pytest_cache/
+.mypy_cache/
+
+# Misc
+*.swp 
